@@ -1,6 +1,6 @@
 ---
 title: Our Coffee
-image: /img/products-jumbotron.jpg
+image: /img/screen-shot-2019-08-17-at-9.43.49-pm.png
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
