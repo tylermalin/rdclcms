@@ -1,14 +1,10 @@
 ---
 title: 'PERSONALIZED COMPLETE NUTRITION '
 subtitle: A RDCL NEW WAY TO GET WHAT YOU NEED TO THRIVE
-image: /img/reishi.jpg
+image: /img/screen-shot-2019-08-17-at-9.43.49-pm.png
 blurb:
   heading: RDCL
-  text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  text: dsresrsr
 intro:
   heading: ITS ALL HAPPENING
   text: >-
@@ -26,7 +22,8 @@ products:
 values:
   heading: WHAT WE CARE ABOUT
   text: |-
-    EVIDENCE BASED 
+    EVIDENCE-BASED 
+
     BACKED BY RESEARCH AND MORE THEN A BETTER FOR YOU  PRODUCT .
 ---
 
